@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Croissant 🥐",
+      "price": 2.5,
+      "quantity": 10,
+      "description": "A buttery, flaky, and golden-brown pastry."
+    },
+    {
+      "id": "2",
+      "name": "Baguette 🥖",
+      "price": 1.75,
+      "quantity": 20,
+      "description": "A long, narrow loaf of French bread with a crispy crust."
+    },
+    {
+      "id": "3",
+      "name": "Chocolate Chip Cookie 🍪",
+      "price": 1,
+      "quantity": 50,
+      "description": "A classic cookie loaded with chocolate chips."
+    },
+    {
+      "id": "4",
+      "name": "Blueberry Muffin 🫐",
+      "price": 2,
+      "quantity": 15,
+      "description": "A soft and moist muffin filled with fresh blueberries."
+    },
+    {
+      "id": "5",
+      "name": "Cinnamon Roll 🍩",
+      "price": 3,
+      "quantity": 8,
+      "description": "A sweet roll with cinnamon filling and cream cheese icing."
+    },
+    {
+      "id": "696d",
+      "name": "rrrr",
+      "price": 4888,
+      "quantity": 66666,
+      "description": "llllll"
+    },
+    {
+      "id": "0ebc",
+      "name": "ttttttt",
+      "price": 4888,
+      "quantity": 66666,
+      "description": "llllll"
+    },
+    {
+      "id": "9b23",
+      "name": "ttttttt",
+      "price": 4888,
+      "quantity": 66666,
+      "description": "llllll"
+    }
+  ]
+}
